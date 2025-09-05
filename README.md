@@ -32,8 +32,6 @@ Este repositório é dedicado à exploração da **Inteligência Artificial Gene
 # Configurações e parâmetros de execução 
 └── README.md          
 
-# Documentação principal
-
 ## ✨ Exemplos de Aplicações
 
 ### 🖼️ Geração de Imagens
